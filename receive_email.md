@@ -72,6 +72,8 @@ Set `Catch-all` action to Send to Worker
 
 **4.Next, you can log in to the Turso database to get the received verification code information**  
 
-which can be obtained in batches using the Turso API
+### which can be obtained in batches using the Turso API
+
+We can use the server to set up a turso message synchronization program to get the verification code synchronously, so that we can have unlimited temporary mailboxes anytime and anywhere
 
 Done!
