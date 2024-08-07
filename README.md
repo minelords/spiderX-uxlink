@@ -13,8 +13,7 @@ The main features of this project are automatic registration of Twitter and auto
 ## require
 1.YesCAPTCHA account top-up [yescaptcha](https://yescaptcha.com/i/3X0FT5)
 
-2.Have a temporary email address that can receive verification codes(It's better to have it yourself)
-  Here's the tutorial  
-  [receive email](./receive_email.md)
+2.Have a temporary email address that can receive verification codes(It's better to have it yourself)  
+  Here's the tutorial-------- [receive email](./receive_email.md)
 
 ## That's OK!
